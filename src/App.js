@@ -1,9 +1,9 @@
+import React from "react";
 import Navbar from './components/Navbar'
 import Wrapper from './components/Wrapper'
 import Footer from './components/Footer'
 import Employee from './pages/Employee'
 
-import './App.css';
 
 function App() {
   return (
